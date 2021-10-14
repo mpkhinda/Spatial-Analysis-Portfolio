@@ -1,0 +1,19 @@
+---
+title: "Spatial Analysis Portfolio"
+author: "Matt Khinda"
+date: "10/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load libraries, include = FALSE}
+
+```
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
