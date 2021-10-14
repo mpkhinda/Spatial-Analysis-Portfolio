@@ -2,12 +2,27 @@
 title: "Spatial Analysis Portfolio"
 author: "Matt Khinda"
 date: "10/14/2021"
-output: html_document
+output: 
+  rmdformats::downcute
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+#Introduction  
+
+This portfolio demonstrates the skills learned in VIS 2128: Spatial Analysis, namely using R, RStudio, and ArcGIS to create various maps analyzing and displaying urban data across a range of cities. 
+
+#Interactive Housing Cost Map
+
+
+#Transit Accessibility Maps
+
+
+
+
+
 
 ```{r load libraries, include = FALSE}
 
