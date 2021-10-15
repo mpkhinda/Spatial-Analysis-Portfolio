@@ -22,7 +22,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map  
   
-[![](Assets/InteractiveThumbnail.png)](https://mpkhinda.github.io/Spatial-Analysis-Portfolio/assets/NYCHousingCostMap.html){target="_blank"}
+[![](Assets/InteractiveThumbnail.png)](https://mpkhinda.github.io/Spatial-Analysis-Portfolio/Assets/NYCHousingCostMap.html){target="_blank"}
 
 
 ## Library Density Map  
