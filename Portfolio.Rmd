@@ -14,7 +14,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This portfolio demonstrates the skills learned in VIS 2128: Spatial Analysis, namely using R, RStudio, and ArcGIS to create various maps analyzing and displaying urban data across a range of cities. 
 
-#Interactive Housing Cost Map
+
+#Interactive Housing Cost Map  
+
+The rising costs of housing in NYC are an ever-talked-about urban planning issue, with much of that conversation focusing on rent and renters. While this is understandable given that about 68% of households are renter-occupied, it prompted me to wonder how the monthly costs of rent compare to the monthly cost of ownership (not including initial cost of purchase). This interactive map explores that comparison by indicating whether costs of owning or renting are greater in different census tracts of New York City. The data displayed comes from the 2019 American Community Survey (ACS), specifically Median Gross Rent (B25064_001) and Selected Monthly Owner Costs (B25094_001). 
+
+This interactive map demonstrates the following skills: 
+
+* Displaying data on an interactive map
+
+[![](Assets/InteractiveThumbnail.png)](https://mpkhinda.github.io/Spatial-Analysis-Portfolio/assets/NYCHousingCostMap.html){target="_blank"}
 
 
 #Transit Accessibility Maps
